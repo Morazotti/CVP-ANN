@@ -4,5 +4,5 @@ Spherical Decoding, introduced by Mohammadkarimi et al. (2019).
 We are interested in implementing such solution to be able to solve
 quantum complexity problems described by Nielsen et al. (2006).
 
-For a detailed explanation of this project, check [[file:cvp_nn.org]], and
+For a detailed explanation of this project, check [[file:cvp_nn.pdf]], and
 the implementation at [[file:cvp_nn.ipynb]].
